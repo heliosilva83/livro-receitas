@@ -9,11 +9,11 @@
   em pó
 
 ---
-<<<<<<< HEAD
+
 ## Cobertura 
 =======
 ## Cobertura
->>>>>>> 949a2ccd64b7b790092d75abd1df2d645d07159c
+
 
 1 colher (sopa) de manteiga
 3 colheres (sopa) de chocolate em pó
@@ -22,11 +22,10 @@
 
 ---
 
-<<<<<<< HEAD
 ## Modo de Preparo
 =======
 #### Modo de Preparo
->>>>>>> 949a2ccd64b7b790092d75abd1df2d645d07159c
+
 
  - Em um liquidificador, adicione a cenoura, os ovos e o óleo, depois misture.
 
