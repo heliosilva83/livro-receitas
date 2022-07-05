@@ -18,7 +18,7 @@
 
 ---
 
-#### Modo de Preparo
+## Modo de Preparo
 
  - Em um liquidificador, adicione a cenoura, os ovos e o óleo, depois misture.
 
@@ -32,7 +32,7 @@
 
  ---
 
- ### Cobertura
+ ## Cobertura
 
   - Despeje em uma tigela a manteiga, o chocolate em pó, o açúcar e o leite, depois misture.
 
