@@ -46,4 +46,8 @@
  - Leve a mistura ao fogo e continue misturando até obter uma consistência cremosa, depois despeje a calda por cima do bolo.
  :wink:
 
+<<<<<<< HEAD
  
+=======
+ ![bolodecenoura1](https://user-images.githubusercontent.com/108373356/177431176-6b0f81c4-4102-4f62-a1ba-11a6894455ef.png)
+>>>>>>> c4f0daed28bef908e1c245ae16057d2bd2936c12
