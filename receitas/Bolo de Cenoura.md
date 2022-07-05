@@ -9,7 +9,7 @@
   em pó
 
 ---
-## Cobertura
+## Cobertura !
 
 1 colher (sopa) de manteiga
 3 colheres (sopa) de chocolate em pó
